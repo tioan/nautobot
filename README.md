@@ -45,7 +45,4 @@ the [appropriate template](https://github.com/nautobot/nautobot/issues/new/choos
 If you are interested in contributing to the development of Nautobot, please read
 our [contributing guide](CONTRIBUTING.md) prior to beginning any work.
 
-## Related projects
 
-Please see [our wiki](https://github.com/nautobot/nautobot/wiki/Related-Projects)
-for a list of relevant community projects.
